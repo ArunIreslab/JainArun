@@ -3,8 +3,8 @@
   <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container devroye", id="home_page_contents">
-        <%= link_to "ARUNKAWDIYA", root_path, class: 'brand brand-bootbus' %>
-        <!-- <a class="brand brand-bootbus" href="index.html">ARUN KAWDIYA</a> -->
+        <%= link_to "MANISH JAIN", root_path, class: 'brand brand-bootbus' %>
+        <!-- <a class="brand brand-bootbus" href="index.html">MANISH JAIN</a> -->
         <!-- Below button used for responsive navigation -->
         <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar" type="button">
           <span class="icon-bar"></span>

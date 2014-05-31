@@ -7,7 +7,7 @@
     </div>
   <p>  My name is Arun Kawdiya, and I’m a 24 year old Software Engineer.I’ve been known amongst my online (and even some offline) friends as “Blade” since about 2005. I grew up moving around a lot but at least spent all of my high school years at a single school, which was Govt.Sr.Sec.Begun.</p>
 
-  <p>	I'm a Confident Motivated Person  & Enthusiastic to My Work.</p>
+	I'm a Confident Motivated Person  & Enthusiastic to My Work.
 
    <p>  I spend my work days  doing Programming, and spare time playing computer / console games and Reading.  I live in Delhi, Noida and am a  Software Engineer at a small but expanding software company called iRESLAB infotech Pvt Ltd.</p>
 
@@ -18,6 +18,8 @@
     <p>I follow Agile principles, making customers happy through the early and continuous delivery of software. I anticipate and welcome changing requirements. I send email or chat with client every day and when working with a team, have daily stand-ups and code reviews.
     </p>
 
+    <h3>Coding</h3>
+    <p>I'm a full stack developer my focus is on Ruby on Rails applications. On the front end I’m working with CoffeeScript, jQuery, Haml, Sass, and Twitter Bootstrap. I prefer using a grid. I drive out user stories using Behavior Driven Development and Test Driven Development and tools like Rspec, Cucumber, and Capybara to write features that describe application behavior, which helps documentation and removes tedious QA.</p>
 
     <h3>Design</h3>
     <p>Websites are about information. My goal as designer is to navigate the user around that information with the right precedence by thinking about what a user will do on every page with clarity and consistency. Consistency means bringing a graphical continuity to every page through fonts, color palettes, headers and layout. I do this using Photoshop, CSS, HTML, and Javascript.</p>

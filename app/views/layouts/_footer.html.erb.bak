@@ -7,21 +7,16 @@
         <%= link_to 'Blog', posts_path %> &nbsp &nbsp | &nbsp &nbsp
         <%= link_to 'Portfolio', portfolio_path %> &nbsp &nbsp | &nbsp &nbsp
         <%= link_to 'Resume', resume_path %> &nbsp &nbsp | &nbsp &nbsp
-        <%= link_to 'Contact Me', contact_path %>&nbsp &nbsp | &nbsp &nbsp
-        <%= link_to(image_tag("Facebook-256.png", :alt => "image", :width => 40, :height => 40), "https://www.facebook.com/arun.jain.3386") %>&nbsp &nbsp &nbsp &nbsp
-        <%= link_to(image_tag("LinkedIn-128.png", :alt => "image", :width => 40, :height => 40), "http://www.linkedin.com/profile/view?id=154656207&trk=nav_responsive_tab_profile") %>
+        <%= link_to 'Contact Me', contact_path %>
       </p>
     </center>
 
        <a class="visitor_total" href="javascript:void(0);"> Total Visitors </a>
     <a href="http://guestscounter.com"><img src="http://guestscounter.com/count.php?c_style=2&id=1392230634" border=0 alt="free counter"></a><br><a href="http://guestscounter.com" style="font-size:9px;"></a>&nbsp
 
-    <span class='glyphicon glyphicon-asterisk'></span>
-
       <p class= "pull-right">
-        <small>Develop & Design By &nbsp <a href="/">Arun Kawdiya & Manish Jain</a> &nbsp <i class="icon-beaker"></i></small>
+        <small>Develop & Design By &nbsp <a href="/">Manish Jain</a> &nbsp <i class="icon-beaker"></i></small>
       </p>
-
 <!--     <div class="row">
       <div class="span2">
         <h4><i class="icon-star icon-white"></i> Projects</h4>
@@ -59,12 +54,13 @@
         <h4><i class="icon-hand-right icon-white"></i> Get in touch</h4>
         <div class="social-icons-row">
           <a href="#"><i class="icon-twitter"></i></a>
-          <a href="https://www.facebook.com/arun.jain.3386"><i class="icon-facebook"></i></a>
-          <a href="http://www.linkedin.com/profile/view?id=154656207&trk=nav_responsive_tab_profile"><i class="icon-linkedin"></i></a>                                         
+          <a href="#"><i class="icon-facebook"></i></a>
+          <a href="#"><i class="icon-linkedin"></i></a>                                         
         </div>
         <div class="social-icons-row">
-          
-          <a href="mailto:arun.kawdiya@ireslab.com"><i class="icon-envelope"></i></a>        
+          <a href="#"><i class="icon-google-plus"></i></a>              
+          <a href="#"><i class="icon-github"></i></a>
+          <a href="mailto:manijain333@gmail.com"><i class="icon-envelope"></i></a>        
         </div>
       </div>
     </div>

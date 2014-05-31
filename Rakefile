@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-JainManish::Application.load_tasks
+JainArun::Application.load_tasks
